@@ -388,5 +388,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 *.cbp
-/Tarea-02/
 /build/
