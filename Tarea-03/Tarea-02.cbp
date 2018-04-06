@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tarea-02"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\01-PrimerVentana\;CMake Files\02-Primitivas\;CMake Files\03-Redimensionar\;CMake Files\04-Teclado\;CMake Files\05-Mouse\;CMake Files\06-Color\;CMake Files\07-Rotacion\;CMake Files\08-Transformaciones\;CMake Files\Tarea-02\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarea2">
+				<Option output="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/build/tarea2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 tarea2"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tarea2/fast">
+				<Option output="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/build/tarea2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 tarea2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/main.cpp">
+			<Option target="tarea2"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/01-PrimerVentana/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\01-PrimerVentana\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/01-PrimerVentana/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\01-PrimerVentana\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/02-Primitivas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\02-Primitivas\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/02-Primitivas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\02-Primitivas\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/03-Redimensionar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\03-Redimensionar\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/03-Redimensionar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\03-Redimensionar\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/04-Teclado/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\04-Teclado\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/04-Teclado/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\04-Teclado\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/05-Mouse/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\05-Mouse\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/05-Mouse/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\05-Mouse\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/06-Color/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\06-Color\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/06-Color/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\06-Color\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/07-Rotacion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\07-Rotacion\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/07-Rotacion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\07-Rotacion\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/08-Transformaciones/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\08-Transformaciones\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/08-Transformaciones/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\08-Transformaciones\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tarea-02\"/>
+		</Unit>
+		<Unit filename="/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-02/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tarea-02\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

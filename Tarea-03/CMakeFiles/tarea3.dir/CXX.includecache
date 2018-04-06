@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/emilio1625/Documentos/Facultad/1669_computer_graphics/Tarea-03/main.cpp
+GL/glut.h
+-
+cmath
+-
+
